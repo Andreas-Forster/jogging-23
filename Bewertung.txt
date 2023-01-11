@@ -1,0 +1,93 @@
+# Punktevergabe
+
+Aufgabe 1
+- Methodensignatur
+- Array richtiger Länge erstellt
+- Iteriert über alle Elemente
+- Länge zugewiesen
+- Längen an den richtigen Stellen im Array
+- Richtige Summe
+- Summe korrekt zugewiesen.
+- Array zurück gegeben.
+
+
+Aufgabe 2
+- Pulic Klasse
+- Felder title und duration
+- Feld actors als LinkedList<String>
+- Klassenfeld movieCounter
+- Konstruktor
+- Counter erhöht
+
+
+
+Aufgabe 3
+- Richtige Signatur (Rückgabe von this auch OK)
+- Zwischenspeichern um nicht zu überschreiben
+- Richtiger Realteil berechnet
+- Richtiger Immaginärteil berechnet
+- Zuweisung von Real und Imaginärteil
+- Richtiger Zugriff auf eigen Felder
+- Richtiger Zugriff auf Felder von other
+- ALLES RICHTIG
+
+
+Aufgabe 4
+- Klasse
+- extends
+- Player Feld
+- Konstruktor signatur
+- Benutzen von super
+- Player Zuweisung im Konstruktor
+- Überladen von genre()
+- Richtige Rückgabe von genre()
+- @Override
+- ALLES RICHTIG
+
+
+
+Aufgabe 5
+- extends Thread
+- Feld für Startwert
+- Konstruktor welcher Startwert setzt
+- Überschreiben von run()
+- @Override
+- Erstellen von Thread-Objekt
+- start()
+- join()
+- try-catch
+- InterruptedException
+
+
+
+Aufgabe 6
+- throws in Signatur
+- if-Bedingung
+- throw new Exception
+- kein zusätzliches return
+- ArithmethicException mit Message
+- try catch
+- ArithmethicException
+- setzen des Wertes im Fehlerfall
+- richtige Wert bei keinem Fehler
+- ALLES FUNKTIONIERT
+
+
+
+Aufgabe Bonus
+- Klasse Coin mit Wert und Währung
+	- Konstruktor
+	- toString() Methode
+- Zufallszahl für Coin erstellen
+- 0.5 Klasse Pirat
+	- Konstruktor
+	- erstellen von Schatz
+	- 0.5 Kämpfen
+	- Zufällige Position als Methode
+	- Zufällige Münzen ziehen
+	- Vergleichen und tauschen von Münzen
+	- 0.5 Ausgabe der Münzen und Totals
+	- Ausgabe in Methode
+- 0.5 Main Methode mit Piraten, ausgabe und kämpfen
+
+
